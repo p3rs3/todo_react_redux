@@ -1,0 +1,17 @@
+.todo-container {
+    margin: 0 auto;
+    padding: 20px 20px;
+    margin-top: 20px;
+    background-color: rgb(233, 233, 233);
+
+    h1 {
+        margin-bottom: 20px;
+        font-weight: bold;
+    }
+
+    &__form {
+        input {
+            margin-bottom: 40px
+        }
+    }
+}
